@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como um mini projeto acadêmico, com o objetivo de
 
 Para o projeto, foi escolhida a **League of Legends Wiki** como fonte de dados. O programa acessa as páginas dos campeões e realiza a extração automática de informações relevantes.
 
-### Tecnologias utilizadas
+### utilizadas
 
 - Python
 - Requests
