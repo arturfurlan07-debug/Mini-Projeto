@@ -26,3 +26,7 @@ O programa realiza requisições às páginas dos campeões, analisa o conteúdo
 - Data de lançamento.
 
 - A Utilidade Seria para: jogos Quiz, Builds, Conhecer melhor cada personagem.
+
+  ##Como Rodar
+
+  Na pasta Lol_Web_Scraping.ipyng tera um encaminhamento para o Google Colab aonde podera rodar o código.
